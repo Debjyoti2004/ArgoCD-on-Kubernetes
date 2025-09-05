@@ -131,3 +131,8 @@ Within moments of pushing the commit, ArgoCD's control loop performed these step
 ### Result of the Git-Triggered Update:
 
 ![](public/argo.png)
+---
+1. Project 1 : https://github.com/Debjyoti2004/CI-CD-Pipeline-with-GitHub-Actions-Docker?tab=readme-ov-file
+2. project 2 : https://github.com/Debjyoti2004/Scalable-Static-Website-with-S3-Cloudflare-GitHub-Actions
+3. project 3 : https://github.com/Debjyoti2004/ArgoCD-on-Kubernetes
+4. project 4 : https://github.com/Debjyoti2004/ArgoCD-on-Kubernetes 
